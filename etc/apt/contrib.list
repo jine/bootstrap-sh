@@ -1,0 +1,12 @@
+# deb http://ftp.se.debian.org/debian/ wheezy contrib
+
+deb http://ftp.se.debian.org/debian/ wheezy contrib
+deb-src http://ftp.se.debian.org/debian/ wheezy contrib
+
+deb http://security.debian.org/ wheezy/updates contrib
+deb-src http://security.debian.org/ wheezy/updates contrib
+
+# wheezy-updates, previously known as 'volatile'
+deb http://ftp.se.debian.org/debian/ wheezy-updates contrib
+deb-src http://ftp.se.debian.org/debian/ wheezy-updates contrib
+

@@ -1,0 +1,9 @@
+deb http://dotdeb.jine.se/ stable all
+deb-src http://dotdeb.jine.se/ stable all
+
+#deb http://dotdeb.jine.se/ wheezy-php55 all
+#deb-src http://dotdeb.jine.se/ wheezy-php55 all
+
+#deb http://dotdeb.jine.se/ wheezy-php56 all
+#deb-src http://dotdeb.jine.se/ wheezy-php56 all
+

@@ -1,0 +1,12 @@
+# deb http://ftp.se.debian.org/debian/ wheezy non-free
+
+deb http://ftp.se.debian.org/debian/ wheezy non-free
+deb-src http://ftp.se.debian.org/debian/ wheezy non-free
+
+deb http://security.debian.org/ wheezy/updates non-free
+deb-src http://security.debian.org/ wheezy/updates non-free
+
+# wheezy-updates, previously known as 'volatile'
+deb http://ftp.se.debian.org/debian/ wheezy-updates non-free
+deb-src http://ftp.se.debian.org/debian/ wheezy-updates non-free
+

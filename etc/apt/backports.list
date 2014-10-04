@@ -1,0 +1,3 @@
+deb http://ftp.se.debian.org/debian/ wheezy-backports main contrib non-free
+deb-src http://ftp.se.debian.org/debian/ wheezy-backports main contrib non-free
+

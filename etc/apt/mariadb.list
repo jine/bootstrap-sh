@@ -1,0 +1,3 @@
+deb http://ftp.ddg.lth.se/mariadb/repo/10.0/debian wheezy main
+deb-src http://ftp.ddg.lth.se/mariadb/repo/10.0/debian wheezy main
+
